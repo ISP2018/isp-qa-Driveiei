@@ -10,9 +10,17 @@ Given the situation below, when do you use (1)inheritance, (2)delegation, and (3
 
 - ___ if your derived class isn't substitutable in place of the base class, and you want to reuse code in the base class when developing your new class.
 
-**Q2.** According to The Pragmatic Programmer book,  List at least 3 things include description to be successful in your career by manage your knowledge portfolio.
+**Q2.** According to The Pragmatic Programmer book,  list at least 3 things include description to be successful in your career by manage your knowledge portfolio.
 
 **Q3.**
+Which choices are correct about django from Comparison of Web Frameworks (2014). Check 3 correct answers.
+
+- [ ] Django is a free and open source web application framework, which follows the model-view-controller architectural pattern.
+- [ ] Django is a server side, scripting, object-oriented language designed for web development but also used as a general-purpose programming language.
+- [ ] Support operators-overload.
+- [ ] Has Garbage collection.
+- [ ] Support for middleware classes which can intervene at various stages of request processing and carry out custom functions.
+- [ ] Has a flexible commenting system.
 
 **Q4.**
 
@@ -34,6 +42,12 @@ Given the situation below, when do you use (1)inheritance, (2)delegation, and (3
 - Manage risk - Distribute the risk of learning technical and tecnology.
 
 **A3.**
+- [x] Django is a free and open source web application framework, which follows the model-view-controller architectural pattern.
+- [ ] Django is a server side, scripting, object-oriented language designed for web development but also used as a general-purpose programming language.
+- [ ] Support operators-overload.
+- [ ] Has Garbage collection.
+- [x] Support for middleware classes which can intervene at various stages of request processing and carry out custom functions.
+- [x] Has a flexible commenting system.
 
 **A4.**
 
