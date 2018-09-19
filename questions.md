@@ -13,7 +13,7 @@ Given the situation below, when do you use (1)inheritance, (2)delegation, and (3
 **Q2.** According to The Pragmatic Programmer book,  list at least 3 things include description to be successful in your career by manage your knowledge portfolio.
 
 **Q3.**
-Which choices are correct about django from Comparison of Web Frameworks (2014). Check 3 correct answers?
+Which choices are correct about django from Comparison of Web Frameworks (2014). Check all correct answers?
 
 - [ ] Django is a free and open source web application framework, which follows the model-view-controller architectural pattern.
 - [ ] Django is a server side, scripting, object-oriented language designed for web development but also used as a general-purpose programming language.
