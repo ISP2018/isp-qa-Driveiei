@@ -23,7 +23,7 @@ Which choices are correct about django from Comparison of Web Frameworks (2014).
 - [ ] Has a flexible commenting system.
 
 **Q4.**
-Which choices are not correct about effective programming from 7 Habits of Highly Effective programmers?
+Which choice(s) is/are not correct about effective programming from 7 Habits of Highly Effective programmers?
 - [ ] Make the most of your time by putting first things first on your agenda.
 - [ ] Make yourself a part of what the majority of people are doing.
 - [ ] Use empathic listening and genuinely understand our colleagues.
